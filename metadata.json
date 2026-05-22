@@ -1,0 +1,6 @@
+{
+  "name": "Supplier Risk Assessment & Insights Chatbot",
+  "description": "An AI-powered conversational chatbot that performs vendor risk assessments, displays actionable insights, and utilizes market signals to provide real-time supplier risk profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
